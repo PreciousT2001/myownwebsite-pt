@@ -1,0 +1,36 @@
+body{
+    background-color:white;  
+}
+#lovely{
+    color:black;
+    background:white;
+    text-align:center;
+    font-family:georgia;
+    border:pink 20px groove;
+}
+mark{
+    background:white;
+}
+#about{
+    border:#ffb3b3 5px inset;
+    background:pink;
+    text-align: center
+}
+
+#list{
+    background:pink;
+}
+ul{
+    text-align:center;
+    background:pink;
+}
+#product{
+    text-align:center;
+    font-size:x-large;
+   background:white;
+   border:#ffb3b3 5px solid;
+}
+h3{
+    text-align:center;
+    border:pink 5px solid;
+}
